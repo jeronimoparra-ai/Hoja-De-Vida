@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Sekuya&display=swap');
+
+* {
+
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: webkit-linear-gradient(90deg, #dc0404, #d76609, #1b1d1b);
+    font-family: "Sekuya", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background: -webkit-linear-gradient(90deg, #dc0404, #d76609, #1b1d1b);
+    background: linear-gradient(90deg, #dc0404, #d76609, #1b1d1b);
+    box-shadow: #1b1d1b;
+
+
+
+
+}
+
+
+header {
+    background: linear-gradient(90deg, #dc0404, #1b1d1b);
+    padding: 15px;
+    margin: 15px;
+    border-radius: 17px;
+    text-align: center;
+    box-shadow: #1b1d1b;
+
+
+}
+
+header img {
+    border-radius:50%;
+}
+
+
+main {
+    background-color: webkit-linear-gradient(90deg, #dc0404, #d76609, #1b1d1b);
+    background: linear-gradient(90deg, #dc0404, #1b1d1b);
+    height: 600px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 17px;
+    padding: 25px;
+    box-shadow: #1b1d1b;
+
+    
+
+}
+
+h1 {
+    color: azure;
+    margin-bottom: 20px;
+    font-size: 55px;
+
+
+}
+
+hr {
+    margin-bottom: 35px;
+    color: #1b1d1b;
+    
+   
+
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: medium;
+    
+
+ 
+   
+
+}
+
+ul li {
+    margin-bottom: 5px;
+    list-style: none;
+    font-size: medium;
+   
+
+}
+
+
+ol {
+    margin-bottom: 5px;
+    list-style: none;
+    font-size: medium;
+   
+
+}
+
+
+
+
+footer {
+    font-size: 50px;
+    height: 30px;
+    padding: 20px;
+   font-weight: bold;
+   
+}
